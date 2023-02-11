@@ -28,6 +28,7 @@
           I’m working on a professional, visually sophisticated and
           technologically proficient, responsive and multi-functional React
           Components.
+          Just for testing
         </p>
         <a href="#" class="btn">Download CV</a>
       </div>
